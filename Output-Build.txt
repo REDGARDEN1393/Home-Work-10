@@ -1,0 +1,8 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: Home Work №10, Configuration: Debug x64 ------
+1>Source.cpp
+1>C:\Users\МУРАТ\Documents\Учеба\Home Work №10\Source.cpp(6,6): warning C4101: 'a': unreferenced local variable
+1>C:\Users\МУРАТ\Documents\Учеба\Home Work №10\Source.cpp(6,9): warning C4101: 'b': unreferenced local variable
+1>Home Work №10.vcxproj -> C:\Users\МУРАТ\Documents\Учеба\Home Work №10\x64\Debug\Home Work №10.exe
+1>Done building project "Home Work №10.vcxproj".
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
